@@ -15,8 +15,12 @@ import java.awt.geom.Line2D;
 import java.awt.geom.Path2D;
 import java.awt.geom.Point2D;
 /*AGREGADO PARA VER SI SOLUCIONA ELLIPSE*/
+
+/*
 import java.awt.geom.Ellipse2D;
 import java.awt.geom.Rectangle2D;
+
+*/
 /* ----------------------------------- */
 import java.util.ArrayList;
 import java.util.Collections;
